@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding: 0;
+   }
+   
+   .container{
+       text-align: center;
+       margin-top: 300px;
+   }
+   
+   /* Hover */
+   .bttn1{
+       color:red;
+   }
+   
+   .bttn1:hover{
+       color:black;
+   }
+   
+   /* Link */
+   
+   .a:link{
+       color:blue;  
+   }
+   .a:visited{
+       color:purple;
+   }
+   
+   
+   }
